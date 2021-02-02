@@ -12,7 +12,6 @@ const App = () => {
   const [step, setStep] = useState(1);
   const [activeQuestion, setActiveQuestion] = useState(0);
   const [answers, setAnswers] = useState([]);
-  const [showModal, setShowModal] = useState(false);
   const [time, setTime] = useState(0);
 
   useEffect(() => {
@@ -53,7 +52,6 @@ const App = () => {
         results={answers}
         data={quizData.data}
         onReset={resetClickHandler}
-        onAnswersCheck={() => setShowModal(true)}
         time={time}
       />}
     </div>
