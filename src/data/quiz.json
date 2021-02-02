@@ -1,0 +1,54 @@
+{
+    "data": [
+      {
+        "question": "Qual maior apelido ?",
+        "choices": ["Vinão", "Vina", "Montanha", "Morrinho"],
+        "answer": "Montanha"
+      },
+      {
+        "question": "Qual esporte favorito ?",
+        "choices": ["Futebol", "Sinuca", "Basquete", "Quadribol"],
+        "answer": "Sinuca"
+      },
+      {
+        "question": "Qual nome da sua namorada completo ?",
+        "choices": ["Mariana Fernandes", "Mariana Teixeira", "Maria Fernandes Teixeira", "Mariana Fernandes Teixeira"],
+        "answer": "Mariana Fernandes Teixeira"
+      },
+      {
+        "question": "Qual área de trabalho ?",
+        "choices": ["Vagabundo", "TI", "Desenvolvedor", "WebDesigner"],
+        "answer": "WebDesigner"
+      },
+      {
+        "question": "Qual a maior qualidade ?",
+        "choices": ["Amoroso", "Idiota", "Inteligente", "Carinhoso"],
+        "answer": "Amoroso"
+      },
+      {
+        "question": "Quantas tatuagens ?",
+        "choices": ["10", "7", "2", "4"],
+        "answer": "7"
+      },
+      {
+        "question": "Qual melhor marca de cigarro  ?",
+        "choices": ["Camel", "Marlboro", "Rothmans", "Nenhuma"],
+        "answer": "Camel"
+      },
+      {
+        "question": "Qual sua marca preferida ?",
+        "choices": ["Adidas", "Nike", "Puma", "Renner"],
+        "answer": "Nike"
+      },
+      {
+        "question": "Qual sua serie favorita ?",
+        "choices": ["Sons of Anarchy", "Lupin", "Vikings", "Suits"],
+        "answer": "Sons of Anarchy"
+      },
+      {
+        "question": "Qual seu maior estilo musical ?",
+        "choices": ["Rock", "Alternativo", "Rap", "Pop"],
+        "answer": "Rap"
+      }
+    ]
+  }
